@@ -29,7 +29,7 @@ public class TaskMapper {
                 task.getDescription(),
                 task.isCompleted(),
                 task.getCreatedAt(),
-               task.isActive()
+                task.isActive()
 
         );
 
